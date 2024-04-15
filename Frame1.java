@@ -24,7 +24,7 @@ public class Frame1 extends JFrame {
 
 		// Background
 		this.background = new JLabel(new ImageIcon(
-				"c:\\Kaashika_PES2UG21CS218\\BTech-VI\\OOAD\\project\\Restaurant-Management-System\\background.jpg.jpg"));
+				"c:\\Kaashika_PES2UG21CS218\\BTech-VI\\OOAD\\Team12_OOADJProject\\background.jpg.jpg"));
 
 		this.init();
 
